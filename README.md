@@ -1,4 +1,1 @@
-as# jenkins-java-1
-Commit
-m,nasd
-as
+Demo for Jenkins Java Poll SCM
